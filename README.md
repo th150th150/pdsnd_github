@@ -18,3 +18,6 @@ Udacity
 https://pandas.pydata.org/pandas-docs/stable/reference/index.html
 https://www.w3resource.com/python-exercises/python-basic-exercise-62.php
 http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-column-wise-mode/
+
+### Github repository
+https://github.com/th150th150/pdsnd_github
