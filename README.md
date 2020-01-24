@@ -21,3 +21,5 @@ http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-c
 
 ### Github repository
 https://github.com/th150th150/pdsnd_github
+### Submitted for grading
+Submitted January 23, 2020
