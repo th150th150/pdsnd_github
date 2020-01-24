@@ -1,15 +1,20 @@
 ### Date created
-Include the date you created this project and README file.
+Project created Monday, January 20, 2020
 
 ### Project Title
-Replace the Project Title
+Explore US Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze
 
 ### Files used
-Include the files used
+bikeshare.py
+washington.csv
+new_york_city.csv
+chicago.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
+https://pandas.pydata.org/pandas-docs/stable/reference/index.html
+https://www.w3resource.com/python-exercises/python-basic-exercise-62.php
+http://www.datasciencemadesimple.com/mode-function-python-pandas-dataframe-row-column-wise-mode/
