@@ -3,6 +3,11 @@ import sys
 import pandas as pd
 import numpy as np
 
+"""
+this file is part of Github repository listed below
+https://github.com/th150th150/pdsnd_github
+"""
+
 # define global variables
 
 CITY_DATA = { 'chicago': 'chicago.csv',
